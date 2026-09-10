@@ -1,0 +1,7 @@
+langgraph>=0.2
+langchain-core>=0.3
+pytest>=7.4
+
+# Optional, only needed if you set LLM_PROVIDER=openai / anthropic in agent.py's llm_generate():
+# langchain-openai>=0.2
+# langchain-anthropic>=0.2
